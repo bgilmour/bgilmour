@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bruce Gilmour, I hail from Scotland (the colder but most beautiful part of the British Isles), and I've been a professional software engineer for more years than I care to remember. I've worked in all sorts of areas including:
+I'm Bruce Gilmour, I hail from Scotland (the coldest but most beautiful part of the British Isles), and I've been a professional software engineer for more years than I care to remember. I've worked in all sorts of areas including:
 
 - Defence & Aerospace (air traffic control simulation)
 - Oil & Gas (reservoir and flow simulation)
